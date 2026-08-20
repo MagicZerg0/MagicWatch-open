@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.26.1">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group2">
+      <Text Id="CountWildcard" Alignment="Left" TypographyId="Typography1">
+        <Translation Language="GB">New Text</Translation>
+      </Text>
+      <Text Id="PeakWildcard" Alignment="Left" TypographyId="Typography1">
+        <Translation Language="GB">New Text</Translation>
+      </Text>
+      <Text Id="EvalWildcard" Alignment="Left" TypographyId="Typography1">
+        <Translation Language="GB">New Text</Translation>
+      </Text>
+    </TextGroup>
+    <TextGroup Id="Group1" />
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_KHK4" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_6S52" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_2WN5" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_Z41X" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_E6I5" Alignment="Left" TypographyId="Typography1">
+        <Translation Language="GB">date</Translation>
+      </Text>
+      <Text Id="__SingleUse_6I3M" Alignment="Left" TypographyId="Typography1">
+        <Translation Language="GB">hour</Translation>
+      </Text>
+      <Text Id="__SingleUse_FBAB" Alignment="Left" TypographyId="Typography1">
+        <Translation Language="GB">minute</Translation>
+      </Text>
+      <Text Id="__SingleUse_QRST" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_65O9" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB">时间调节</Translation>
+      </Text>
+      <Text Id="__SingleUse_0F1H" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_XPMT" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_OODT" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_13XA" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_61HN" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_RMGT" Alignment="Left" TypographyId="Typography1">
+        <Translation Language="GB">详细信息</Translation>
+      </Text>
+      <Text Id="__SingleUse_LUTI" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_XORX" Alignment="Left" TypographyId="Typography1">
+        <Translation Language="GB">↓最佳波形</Translation>
+      </Text>
+      <Text Id="__SingleUse_U46B" Alignment="Center" TypographyId="Typography2">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_LSSH" Alignment="Left" TypographyId="Typography1">
+        <Translation Language="GB">训练结果!</Translation>
+      </Text>
+      <Text Id="__SingleUse_SMC0" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB">查看详细信息</Translation>
+      </Text>
+      <Text Id="__SingleUse_ZRLM" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_6EGN" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_8ER6" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">t/s</Translation>
+      </Text>
+      <Text Id="__SingleUse_6GVE" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">deg/s</Translation>
+      </Text>
+      <Text Id="__SingleUse_8FTP" Alignment="Center" TypographyId="Small">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_ZLYU" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">deg/s</Translation>
+      </Text>
+      <Text Id="__SingleUse_3GY1" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">t/s</Translation>
+      </Text>
+      <Text Id="__SingleUse_M4OJ" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_YDVS" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_WEHO" Alignment="Left" TypographyId="Typography2">
+        <Translation Language="GB">deg/s</Translation>
+      </Text>
+      <Text Id="__SingleUse_1XA2" Alignment="Left" TypographyId="Typography2">
+        <Translation Language="GB">峰值:</Translation>
+      </Text>
+      <Text Id="__SingleUse_ALMN" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_D41Q" Alignment="Left" TypographyId="Typography1">
+        <Translation Language="GB">正手挑球</Translation>
+      </Text>
+      <Text Id="__SingleUse_58UY" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_J8N4" Alignment="Center" TypographyId="Small">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_M7JK" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">deg/s</Translation>
+      </Text>
+      <Text Id="__SingleUse_3MPP" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">t/s</Translation>
+      </Text>
+      <Text Id="__SingleUse_BNYV" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_JOBG" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_GV0E" Alignment="Left" TypographyId="Typography2">
+        <Translation Language="GB">deg/s</Translation>
+      </Text>
+      <Text Id="__SingleUse_DII4" Alignment="Left" TypographyId="Typography2">
+        <Translation Language="GB">峰值:</Translation>
+      </Text>
+      <Text Id="__SingleUse_MIGO" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_WT28" Alignment="Left" TypographyId="Typography1">
+        <Translation Language="GB">杀球</Translation>
+      </Text>
+      <Text Id="__SingleUse_0R7I" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_3HJM" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_KCAE" Alignment="Left" TypographyId="Typography1">
+        <Translation Language="GB">详细信息</Translation>
+      </Text>
+      <Text Id="__SingleUse_6V4M" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_SZ8V" Alignment="Left" TypographyId="Typography1">
+        <Translation Language="GB">↓最佳波形</Translation>
+      </Text>
+      <Text Id="__SingleUse_BQL6" Alignment="Center" TypographyId="Typography2">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_Z0XJ" Alignment="Left" TypographyId="Typography1">
+        <Translation Language="GB">训练结果!</Translation>
+      </Text>
+      <Text Id="__SingleUse_SFV0" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB">查看详细信息</Translation>
+      </Text>
+      <Text Id="__SingleUse_HG7K" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_YKFH" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_U0WP" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">t/s</Translation>
+      </Text>
+      <Text Id="__SingleUse_59PI" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">deg/s</Translation>
+      </Text>
+      <Text Id="__SingleUse_QZYL" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_8SPM" Alignment="Left" TypographyId="Typography1">
+        <Translation Language="GB">详细信息</Translation>
+      </Text>
+      <Text Id="__SingleUse_5QBB" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_VXQT" Alignment="Left" TypographyId="Typography1">
+        <Translation Language="GB">↓最佳波形</Translation>
+      </Text>
+      <Text Id="__SingleUse_3LTL" Alignment="Center" TypographyId="Typography2">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_44IN" Alignment="Left" TypographyId="Typography1">
+        <Translation Language="GB">训练结果!</Translation>
+      </Text>
+      <Text Id="__SingleUse_XJJP" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB">查看详细信息</Translation>
+      </Text>
+      <Text Id="__SingleUse_3XTI" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_JL16" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_PNW0" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">t/s</Translation>
+      </Text>
+      <Text Id="__SingleUse_SI06" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">deg/s</Translation>
+      </Text>
+      <Text Id="__SingleUse_9L6I" Alignment="Center" TypographyId="Small">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_R99G" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">deg/s</Translation>
+      </Text>
+      <Text Id="__SingleUse_GNKD" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">t/s</Translation>
+      </Text>
+      <Text Id="__SingleUse_IB2D" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_99M2" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_AU0Z" Alignment="Left" TypographyId="Typography2">
+        <Translation Language="GB">deg/s</Translation>
+      </Text>
+      <Text Id="__SingleUse_CJI1" Alignment="Left" TypographyId="Typography2">
+        <Translation Language="GB">峰值:</Translation>
+      </Text>
+      <Text Id="__SingleUse_2JI7" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_M69H" Alignment="Left" TypographyId="Typography1">
+        <Translation Language="GB">反手挑球</Translation>
+      </Text>
+      <Text Id="__SingleUse_EHS9" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_N1FK" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_XNRW" Alignment="Left" TypographyId="Typography1">
+        <Translation Language="GB">详细信息</Translation>
+      </Text>
+      <Text Id="__SingleUse_4IH7" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_02FI" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB">查看详细信息</Translation>
+      </Text>
+      <Text Id="__SingleUse_NVEQ" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">t/s</Translation>
+      </Text>
+      <Text Id="__SingleUse_7VYZ" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">deg/s</Translation>
+      </Text>
+      <Text Id="__SingleUse_FRDE" Alignment="Left" TypographyId="Typography1">
+        <Translation Language="GB">↓最佳波形</Translation>
+      </Text>
+      <Text Id="__SingleUse_VIW1" Alignment="Center" TypographyId="Typography2">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_QXBK" Alignment="Left" TypographyId="Typography1">
+        <Translation Language="GB">训练结果!</Translation>
+      </Text>
+      <Text Id="__SingleUse_43I6" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_J1R6" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_2GKZ" Alignment="Center" TypographyId="Small">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_98UA" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">deg/s</Translation>
+      </Text>
+      <Text Id="__SingleUse_PLZK" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">t/s</Translation>
+      </Text>
+      <Text Id="__SingleUse_VLJA" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_0U12" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_GHUV" Alignment="Left" TypographyId="Typography2">
+        <Translation Language="GB">deg/s</Translation>
+      </Text>
+      <Text Id="__SingleUse_QRUB" Alignment="Left" TypographyId="Typography2">
+        <Translation Language="GB">峰值:</Translation>
+      </Text>
+      <Text Id="__SingleUse_NL84" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_V8I2" Alignment="Left" TypographyId="Typography1">
+        <Translation Language="GB">高远球</Translation>
+      </Text>
+      <Text Id="__SingleUse_I4E6" Alignment="Left" TypographyId="Typography1">
+        <Translation Language="GB">技术要领：右脚上前&#10;          手往前伸&#10;        自下而上划弧&#10;          手腕轻挑</Translation>
+      </Text>
+      <Text Id="__SingleUse_CSQW" Alignment="Left" TypographyId="Typography1">
+        <Translation Language="GB">正手挑球训练</Translation>
+      </Text>
+      <Text Id="__SingleUse_N366" Alignment="Left" TypographyId="Typography1">
+        <Translation Language="GB">技术要领：侧身引拍&#10;          转体发力&#10;          手腕内旋&#10;        收拍至左下方</Translation>
+      </Text>
+      <Text Id="__SingleUse_I14Z" Alignment="Left" TypographyId="Typography1">
+        <Translation Language="GB">正手高远球训练</Translation>
+      </Text>
+      <Text Id="__SingleUse_EB28" Alignment="Left" TypographyId="Typography1">
+        <Translation Language="GB">技术要领：高点击球&#10;          快速下压&#10;          手腕闪动&#10;          重心前移</Translation>
+      </Text>
+      <Text Id="__SingleUse_9CQ1" Alignment="Left" TypographyId="Typography1">
+        <Translation Language="GB">杀球训练</Translation>
+      </Text>
+      <Text Id="__SingleUse_79G0" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_V8RX" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_RQOF" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_34TY" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_YRZ1" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_C1X7" Alignment="Left" TypographyId="Typography1">
+        <Translation Language="GB">技术要领：右脚上前&#10;          反手握拍&#10;         拇指顶拍柄&#10;         由下往上弹</Translation>
+      </Text>
+      <Text Id="__SingleUse_CKSV" Alignment="Left" TypographyId="Typography1">
+        <Translation Language="GB">反手挑球训练</Translation>
+      </Text>
+      <Text Id="__SingleUse_NFGM" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_C1NK" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_XA5P" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_UNM2" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_NPGT" Alignment="Left" TypographyId="Typography2">
+        <Translation Language="GB">选择你要练习的动作！</Translation>
+      </Text>
+      <Text Id="__SingleUse_R67E" Alignment="Left" TypographyId="Typography1">
+        <Translation Language="GB">正手挑球</Translation>
+      </Text>
+      <Text Id="__SingleUse_SIHA" Alignment="Left" TypographyId="Typography1">
+        <Translation Language="GB">正手高远球</Translation>
+      </Text>
+      <Text Id="__SingleUse_DKL6" Alignment="Left" TypographyId="Typography1">
+        <Translation Language="GB">杀球</Translation>
+      </Text>
+      <Text Id="__SingleUse_F7KH" Alignment="Left" TypographyId="Typography1">
+        <Translation Language="GB">反手挑球</Translation>
+      </Text>
+      <Text Id="__SingleUse_033A" Alignment="Center" TypographyId="Small">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_IEOP" Alignment="Center" TypographyId="Small">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_6UKO" Alignment="Center" TypographyId="Small">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_85B4" Alignment="Center" TypographyId="Small">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_FF57" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="time" Alignment="Right" TypographyId="Small">
+        <Translation Language="GB">&lt;&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_YLKF" Alignment="Left" TypographyId="Typography1">
+        <Translation Language="GB">Design by：锋羽无阻队</Translation>
+      </Text>
+      <Text Id="__SingleUse_0XA0" Alignment="Left" TypographyId="Typography1">
+        <Translation Language="GB">运动传感器：MPU6050</Translation>
+      </Text>
+      <Text Id="__SingleUse_RSEO" Alignment="Left" TypographyId="Typography1">
+        <Translation Language="GB">UI设计：TouchGFX</Translation>
+      </Text>
+      <Text Id="__SingleUse_4N78" Alignment="Left" TypographyId="Typography1">
+        <Translation Language="GB">屏幕主控：ST7789</Translation>
+      </Text>
+      <Text Id="__SingleUse_SMUG" Alignment="Left" TypographyId="Typography1">
+        <Translation Language="GB">主控：STM32U585CIU6</Translation>
+      </Text>
+      <Text Id="__SingleUse_RB8N" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_YQG5" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB">蓝牙</Translation>
+      </Text>
+      <Text Id="__SingleUse_NV9F" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB">设备信息</Translation>
+      </Text>
+      <Text Id="__SingleUse_AP7K" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_CBJ4" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_XW1U" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_FVQG" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_Y6DB" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_RV4H" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB">亮度调节</Translation>
+      </Text>
+      <Text Id="__SingleUse_ALYV" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_BBE8" Alignment="Left" TypographyId="Typography1">
+        <Translation Language="GB">测量失败！请重新测量</Translation>
+      </Text>
+      <Text Id="__SingleUse_YE7J" Alignment="Left" TypographyId="Typography1">
+        <Translation Language="GB">血氧 : &lt;value&gt;%</Translation>
+      </Text>
+      <Text Id="__SingleUse_3YRV" Alignment="Left" TypographyId="Typography1">
+        <Translation Language="GB">心率 : &lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_BDDR" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_I4AD" Alignment="Left" TypographyId="Typography1">
+        <Translation Language="GB">测量中...</Translation>
+      </Text>
+      <Text Id="__SingleUse_KLVX" Alignment="Left" TypographyId="Typography1">
+        <Translation Language="GB">请将手指放在传感器上</Translation>
+      </Text>
+      <Text Id="__SingleUse_F5OA" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_H3OD" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB">心率及血氧测量</Translation>
+      </Text>
+      <Text Id="__SingleUse_20RB" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_AUY8" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&amp;</Translation>
+      </Text>
+      <Text Id="__SingleUse_SJ9D" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_ILGC" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_2ALB" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB">羽毛球挥拍训练</Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="verdana.ttf" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacters="心率测量" />
+    <Typography Id="Large" Font="verdana.ttf" Size="40" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacters="0123456789:" />
+    <Typography Id="Small" Font="verdana.ttf" Size="10" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Typography1" Font="SIMYOU.TTF" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacters="出球向上，更像高远球。杀球需击球点更前、手腕下压。出球向下，更像杀球。高远需拍面向前上方送。鞭打比不足且有甩大臂倾向：发力来自肩膀画大圈，缺少前臂爆发。先慢速感受肘先走 - 前臂滞后 - 前臂超过肘 - 手腕超过前臂的四步鞭打，让发力从肩膀下沉到前臂和手腕；鞭打比不足：先慢速感受肘先走 - 前臂滞后 - 前臂超过肘 - 手腕超过前臂的四步鞭打；前臂内旋不足：击球瞬间前臂没有主动向内旋转，力量全来自甩大臂。慢速练习握拍放松、击球前手掌从朝上翻到朝下；小臂发力不纯：击球瞬间手腕有多余晃动，力量分散。练习时注意击球前后手腕保持稳定，只做内旋不做额外翻腕；前臂内旋偏弱：有一定内旋发力但不够突出，尝试击球瞬间更集中地加速前臂旋转；加大力度；力度稍弱；手腕旋转速度偏慢：尝试加快前臂挥动，提高击球瞬间的角速度；角速度接近标准但还能更快：击球瞬间手腕加速再果断一些；存在二次发力情况：引拍完了立刻出手，中间不要有调整动作，保证发力的平滑度；引拍不足：没有倒拍蓄力，架拍完就直接往前挥了。引拍时肘先向上抬起，前臂放松，让拍头自然向后垂落到后背位置；倒拍偏浅：引拍时拍头下垂不够深，加速距离不足。肘抬高后前臂完全放松，感受拍头靠重力自己掉到后背；倒拍接近标准但还能更深：引拍时身体充分侧转，让拍头垂落到位后再启动前挥；挑球发力不足：击球瞬间前臂弹挑力度不够。手腕从背屈快速弹向掌屈，像用拍子把球弹出去而不是推出去；挑球发力分散：击球动作拖得太长，不是短促弹挑而是慢速推球。缩小引拍幅度，靠前臂旋转和手腕弹击完成挑球，整个发力在 50ms 内完成；挑球发力可更集中：缩短击球时间，让发力更短促。想象拍面触球瞬间手指收紧、手腕快弹，触球后立刻放松；拇指顶住拍柄宽面，靠前臂外旋把球弹出去；动作标准！, 。 : ; !1234567890-/.%-ABCDEFGHIJKLMNOPQRSTUVWXYZ:abcdefghijklmnopqrstuvwxyz训练结果详情完成次数最大峰值平均评分稳定性建议表现优秀保持节奏基本集错中度多练习功放慢动作体加大量稍弱爆击球太仓促偏增前臂内旋不够连贯引拍深头自然下垂到背后挑靠手腕拇指顶住柄宽面外把弹出去抡平歪斜从侧兜轨迹扭曲中途变线转轴方向乱协空挥未中与模板差异检查姿势速降休息分再向更像高远需拍前送正确 反,整记住这个挥拍鞭甩发力的感觉记住要鞭甩闪动发力多多尝试你可以的!可以多寻找网络资料对着镜子进行基础的挥拍练习挑球发力不错,记住使用手指撵动发力杀球注意把球拍鞭甩起来,不要抡大臂,像甩鞭子一样甩动球拍一般出球向上更像高远杀需击球点前手腕下压向下拍面前方送鞭打比不足且有甩大臂倾向发力来自肩膀画大圈缺少前臂爆发先慢速感受肘走滞后超过四步让沉到手前臂内旋击球瞬间没有主动向内旋转量全握放松掌朝翻纯晃动分散练习注意稳定只做额外翻偏弱一定突出尝试集中加速加大力度稍弱旋转速度偏慢提高角接近标准还能果断存在二次情况引完立刻出手中间不要调整动保平滑度架直往前挥抬起放松拍头自然向后垂落背位置浅加距离重力掉身充分侧转垂落到位启动前挑弹力不够背屈快速弹向掌屈用把弹出而推拖长短促缩小幅靠旋整个完成可更集缩短时间想象触指收紧触后立刻拇顶柄宽面靠外旋把动作标准合格注意发力挑球力度严重不足:没有用拇指顶住拍柄宽面,引拍时前臂外旋蓄力,击球瞬间前臂内旋把球弹出去挑球力度偏弱:加速前臂挥动,触球瞬间手指收紧加力,加深外旋预张幅度,让手腕弹出更大的力量挑球发力可更集中:缩短击球时间,让发力更短促。想象拍面触球瞬间手指收紧、手腕快弹,触球后立刻放松动作标准,继续保持动作错误力度偏弱良好" />
+    <Typography Id="Typography2" Font="SIMYOU.TTF" Size="15" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacters="1234567890-/.标准合格注意发力%-ABCDEFGHIJKLMNOPQRSTUVWXYZ:abcdefghijklmnopqrstuvwxy z动作错误力度偏弱良好" />
+  </Typographies>
+</TextDatabase>

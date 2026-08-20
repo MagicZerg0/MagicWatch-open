@@ -1,0 +1,16 @@
+# 构建产物（绝对不能入库，旧电脑缓存就是它）
+build/
+
+# CubeMX 生成状态
+.mxproject
+mx.scratch
+
+# VSCode 本地配置（每人插件路径可能不同）
+.vscode/
+
+# clangd 本地索引
+.cache/
+
+# Windows 系统文件
+Thumbs.db
+Desktop.ini
