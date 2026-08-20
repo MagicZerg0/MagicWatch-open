@@ -26,3 +26,24 @@
 ```powershell
 cmake --preset Debug
 cmake --build --preset Debug
+
+## 烧录
+
+建议连接st-link后
+使用stm32官方vscode插件，在vscode当中烧录
+或者：STM32_Programmer_CLI -c port=SWD mode=UR -w build/Debug/u585_newscreen_test.elf -v -rst
+
+## 目录结构
+
+- `Core/` — 主逻辑、FreeRTOS 任务
+- `Lib/` — 外设驱动（ST7789、CST816、MAX30102）
+- `TouchGFX/` — GUI 界面（assets 图片字体、gui 源码）
+- `Middlewares/` — TouchGFX 框架、FreeRTOS
+
+## 许可证
+
+MIT License（第三方组件遵循各自许可：TouchGFX 为 ST 许可、FreeRTOS 为 MIT、HAL 库为 BSD-3-Clause）
+
+## 致谢
+
+请给薯条面子
