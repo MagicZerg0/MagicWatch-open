@@ -5,7 +5,7 @@
 ## 功能
 
 - 心率 / 血氧检测（MAX30102 传感器）
-- 多种运动模式（【反手挑球、正手跳、沙球、正手高远】等）
+- 多种运动模式（反手挑球、正手跳、杀球、正手高远等）
 - 240x240 彩色屏幕（ST7789）+ 触摸交互（CST816）
 - 时钟、亮度、息屏等基本功能
 
@@ -23,15 +23,18 @@
 
 需要 [STM32CubeCLT](https://www.st.com/en/development-tools/stm32cubeclt.html)（含 cmake / ninja / arm-none-eabi-gcc）：
 
-powershell：
+```powershell
 cmake --preset Debug
 cmake --build --preset Debug
+```
 
 ## 烧录
 
-建议连接st-link后
-使用stm32官方vscode插件，在vscode当中烧录
-或者：STM32_Programmer_CLI -c port=SWD mode=UR -w build/Debug/u585_newscreen_test.elf -v -rst
+建议连接 ST-Link 后，使用 STM32 官方 VSCode 插件在 VSCode 中烧录；或者使用命令行：
+
+```powershell
+STM32_Programmer_CLI -c port=SWD mode=UR -w build/Debug/u585_newscreen_test.elf -v -rst
+```
 
 ## 目录结构
 
@@ -47,3 +50,59 @@ MIT License（第三方组件遵循各自许可：TouchGFX 为 ST 许可、FreeR
 ## 致谢
 
 请给薯条面子
+
+---
+
+## English Version
+
+# MagicWatch Smart Watch
+
+A smart badminton motion-detection watch based on **STM32U585 + TouchGFX**. Award-winning project of the National College Embedded Chip and System Design Competition.
+
+## Features
+
+- Heart rate / SpO2 detection (MAX30102 sensor)
+- Multiple badminton motion modes (backhand lift, forehand jump smash, shuttle, forehand clear, etc.)
+- 240x240 color display (ST7789) + touch interaction (CST816)
+- Clock, brightness, screen-off and other basic functions
+
+## Hardware
+
+| Module | Model |
+|--------|-------|
+| MCU | STM32U585 |
+| Display | ST7789 240x240 |
+| Touch | CST816 |
+| Heart rate sensor | MAX30102 |
+
+## Build
+
+Requires [STM32CubeCLT](https://www.st.com/en/development-tools/stm32cubeclt.html) (cmake / ninja / arm-none-eabi-gcc). Run in the project root:
+
+```powershell
+cmake --preset Debug
+cmake --build --preset Debug
+```
+
+## Flash
+
+Connect an ST-Link, then either use the official STM32 VS Code extension to flash, or run:
+
+```powershell
+STM32_Programmer_CLI -c port=SWD mode=UR -w build/Debug/u585_newscreen_test.elf -v -rst
+```
+
+## Directory Structure
+
+- `Core/` — main logic, FreeRTOS tasks
+- `Lib/` — peripheral drivers (ST7789, CST816, MAX30102)
+- `TouchGFX/` — GUI (assets, gui source)
+- `Middlewares/` — TouchGFX framework, FreeRTOS
+
+## License
+
+MIT License (third-party components under their own licenses)
+
+## Acknowledgments
+
+Special thanks to our teammate Fries (薯条) — respect to Fries!
