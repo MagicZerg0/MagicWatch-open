@@ -23,7 +23,7 @@
 
 需要 [STM32CubeCLT](https://www.st.com/en/development-tools/stm32cubeclt.html)（含 cmake / ninja / arm-none-eabi-gcc）：
 
-```powershell
+powershell：
 cmake --preset Debug
 cmake --build --preset Debug
 
